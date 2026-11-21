@@ -10,7 +10,8 @@
                  revision="lineage-24.0"
                  clone-depth="1" />
 
-        <!-- Common LineageOS Sepolicy -->
+        <!-- Replace LineageOS default sepolicy with the LGE-QCOM fork -->
+        <remove-project name="LineageOS/android_device_lineage_sepolicy" />
         <project path="device/lineage/sepolicy"
                  name="lge-qcom-dev/android_device_lineage_sepolicy"
                  remote="rem"
