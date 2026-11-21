@@ -5,9 +5,9 @@
 
         <!-- LGE Hardware Specific Support -->
         <project path="hardware/lge"
-                 name="lge-qcom-dev/android_hardware_lge"
+                 name="xxfrost420/android_hardware_lge"
                  remote="rem"
-                 revision="lineage-24.0"
+                 revision="infinity-17"
                  clone-depth="1" />
 
         <!-- Common LineageOS Sepolicy -->
