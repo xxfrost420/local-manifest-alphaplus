@@ -19,9 +19,9 @@
 
         <!-- Device Trees -->
         <project path="device/lge/alphaplus"
-                 name="lge-qcom-dev/android_device_lge_alphaplus"
+                 name="xxfrost420/android_device_lge_alphaplus"
                  remote="rem"
-                 revision="lineage-24.0"
+                 revision="evox-17"
                  clone-depth="1" />
 
         <project path="device/lge/sm8150-common"
