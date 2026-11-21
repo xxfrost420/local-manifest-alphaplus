@@ -5,9 +5,9 @@
 
         <!-- LGE Hardware Specific Support -->
         <project path="hardware/lge"
-                 name="xxfrost420/android_hardware_lge"
+                 name="lge-qcom-dev/android_hardware_lge"
                  remote="rem"
-                 revision="infinity-17"
+                 revision="lineage-24.0"
                  clone-depth="1" />
 
         <!-- Common LineageOS Sepolicy -->
@@ -19,9 +19,9 @@
 
         <!-- Device Trees -->
         <project path="device/lge/alphaplus"
-                 name="lge-qcom-dev/android_device_lge_alphaplus"
+                 name="xxfrost420/android_device_lge_alphaplus"
                  remote="rem"
-                 revision="lineage-24.0"
+                 revision="infinity-17"
                  clone-depth="1" />
 
         <project path="device/lge/sm8150-common"
