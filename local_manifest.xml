@@ -5,7 +5,7 @@
 
         <!-- LGE Hardware Specific Support -->
         <project path="hardware/lge"
-                 name="LineageOS/android_hardware_lge"
+                 name="lge-qcom-dev/android_hardware_lge"
                  remote="rem"
                  revision="lineage-24.0"
                  clone-depth="1" />
